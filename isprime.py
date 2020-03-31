@@ -1,6 +1,4 @@
-'''
-function resturns nuber is prime or not
-'''
+
 def test_prime(arg):
     if arg == 1:
         return True
